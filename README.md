@@ -1,6 +1,6 @@
 # R-language-code
 Mendelian randomization of the original code
-# 🚪Project Overview： Project Overview: This codebase is used to analyse the causal relationship between cerebrospinal fluid (CSF) metabolites and ovarian disease based on Mendelian randomization (MR) method, and is planned to include data preprocessing, MR analysis, and visualization scripts. However, our team does not have the programming ability for the time being, the content of this writing is obtained with the help of artificial intelligence and temporary learning, we are actively contacting the relevant technical staff, and will continue to improve the content, and strive to run smoothly as soon as possible~.
+# 🚪Project Overview：Project Overview: This codebase is used to analyse the causal relationship between cerebrospinal fluid (CSF) metabolites and ovarian diseases based on Mendelian randomization (MR), and is planned to include data preprocessing, MR analysis, and visualization scripts. However, our team does not have programming ability for the time being, and this writing process is generated with the help of artificial intelligence and filled accordingly to the research content. We have uploaded the reproducible real running code of R software on our homepage, and the raw data can be downloaded from public databases. We are actively contacting the relevant technicians, and will continue to improve the content to run smoothly as soon as possible~.
 # 📦 Dependencies and Installation：
 1. R language environment
 R version: ≥ 4.0.0
